@@ -6,11 +6,10 @@ import random
 year = datetime.datetime.now().year
 
 thumbnail_url = [
-    "https://nra.resonite.org/VRChat_2023-11-20_02-35-09.639_1920x1080.png",
-    "https://nra.resonite.org/VRChat_2023-11-03_07-05-25.819_1920x1080.png",
-    "https://nra.resonite.org/VRChat_2023-10-04_01-09-00.467_2160x3840.png",
-    "https://nra.resonite.org/VRChat_2023-11-03_07-05-25.819_1920x1080.png"
-
+    "{シンボルURL1}",
+    "{シンボルURL2}",
+    "{シンボルURL3}",
+    "{シンボルURL4}"
 ]
 
 Genere = [
